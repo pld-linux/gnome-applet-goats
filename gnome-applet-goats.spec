@@ -18,8 +18,6 @@ Requires(post):	GConf2
 Requires(post):	scrollkeeper
 BuildRoot:	%{tmpdir}/%{name}-%{version}-root-%(id -u -n)
 
-%define		_sysconfdir	/etc
-
 %description
 Goats is another post-it note applet for GNOME, modelled after Knotes
 for KDE, and also similar to gnome-gnotes. You can create lots of
