@@ -1,0 +1,12 @@
+diff -Nuard goats-2.2.orig/doc/C/goats-C.omf.out goats-2.2/doc/C/goats-C.omf.out
+--- goats-2.2.orig/doc/C/goats-C.omf.out	2003-04-15 21:30:25.000000000 +0200
++++ goats-2.2/doc/C/goats-C.omf.out	2003-08-29 20:39:29.000000000 +0200
+@@ -22,7 +22,7 @@
+         user's guide
+       </type>
+       <format mime="text/xml" dtd="-//OASIS//DTD DocBook XML V4.1.2//EN"/>
+-      <identifier url="file:/usr/Gnome-2.2//share/gnome/help/goats/C/goats.xml"/>
++      <identifier url="file:/usr//share/gnome/help/goats/C/goats.xml"/>
+       <language code="C"/>
+       <relation seriesid="081c7e56-2acd-11d6-819f-e6a1118e62db"/>
+       <rights type="GNU FDL" license.version="1.1" holder="Martin Craig"/>
