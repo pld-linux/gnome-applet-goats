@@ -72,6 +72,7 @@ rm -rf $RPM_BUILD_ROOT
 %attr(755,root,root) %{_bindir}/*
 %{_datadir}/gnome-2.0/ui/GNOME_GoatsApplet.xml
 %{_pixmapsdir}/*.png
+%dir %{_datadir}/goats
 %{_datadir}/goats/*
 %{_datadir}/sounds/goat_bleat.au
 %{_omf_dest_dir}/%{_realname}
