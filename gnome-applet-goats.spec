@@ -1,7 +1,7 @@
 %define		_realname	goats
 
 Summary:	A sticky notes program for GNOME
-Summary(pl):	Przyklejane notatki dla GNOME
+Summary(pl.UTF-8):   Przyklejane notatki dla GNOME
 Name:		gnome-applet-goats
 Version:	2.2
 Release:	1
@@ -24,11 +24,11 @@ for KDE, and also similar to gnome-gnotes. You can create lots of
 notes in dayglow colours, type in different fonts, set alarms etc. You
 can also run it without the GNOME panel.
 
-%description -l pl
+%description -l pl.UTF-8
 Goats to kolejny aplet z notatkami dla GNOME, wzorowany na Knotes z
-KDE, podobny te¿ do gnome-gnotes. Pozwala tworzyæ wiele notatek w
-ró¿nych kolorach, pisaæ ró¿nymi fontami, ustawiaæ alarmy itp. Mo¿e byæ
-tak¿e uruchomiony z panelu GNOME.
+KDE, podobny teÅ¼ do gnome-gnotes. Pozwala tworzyÄ‡ wiele notatek w
+rÃ³Å¼nych kolorach, pisaÄ‡ rÃ³Å¼nymi fontami, ustawiaÄ‡ alarmy itp. MoÅ¼e byÄ‡
+takÅ¼e uruchomiony z panelu GNOME.
 
 %prep
 %setup -q -n %{_realname}-%{version}
