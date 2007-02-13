@@ -1,7 +1,7 @@
 %define		_realname	goats
 
 Summary:	A sticky notes program for GNOME
-Summary(pl.UTF-8):   Przyklejane notatki dla GNOME
+Summary(pl.UTF-8):	Przyklejane notatki dla GNOME
 Name:		gnome-applet-goats
 Version:	2.2
 Release:	1
